@@ -1,2 +1,1 @@
-# pingDog
-Used html+css+bootstrap (initial website)
+TinDog Starting Files
